@@ -1,2 +1,2 @@
 # leetcode
-contains of my leetcode solutions
+contains all of my leetcode solutions
